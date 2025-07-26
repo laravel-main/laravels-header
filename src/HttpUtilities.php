@@ -25,7 +25,7 @@ class HttpUtilities
             ],
             'http_client' => [
                 'timeout' => 30,
-                'user_agent' => 'PHP-Laravel-Headers/1.2.1',
+                'user_agent' => 'PHP-Laravels-Headers/1.2.1',
                 'verify_ssl' => true
             ],
             'utilities' => [

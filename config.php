@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Configuration file for PHP Laravel Headers HTTP utilities
+ * Configuration file for PHP Laravels Headers HTTP utilities
  * Modify these settings to customize HTTP client behavior
  */
 
@@ -15,7 +15,7 @@ return [
     // HTTP Client Settings
     'http_client' => [
         'timeout' => 30,
-        'user_agent' => 'PHP-Laravel-Headers/1.2.1',
+        'user_agent' => 'PHP-Laravels-Headers/1.2.1',
         'verify_ssl' => true
     ],
 

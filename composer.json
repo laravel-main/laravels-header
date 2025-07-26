@@ -1,5 +1,5 @@
 {
-    "name": "php-laravel/headers",
+    "name": "php-laravels/headers",
     "description": "Laravel HTTP clients utilities and headers",
     "type": "library",
     "license": "MIT",
