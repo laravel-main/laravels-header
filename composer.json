@@ -1,0 +1,30 @@
+{
+    "name": "laravels/header",
+    "description": "Laravel HTTP clients utilities and headers",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.2.1",
+    "authors": [
+        {
+            "name": "Laravel Developer",
+            "email": "developer@laravel.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laravels\\Header\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravels\\Header\\HttpServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
